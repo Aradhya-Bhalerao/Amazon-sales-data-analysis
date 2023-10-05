@@ -3,13 +3,13 @@ In today's data-driven world, analyzing sales data is crucial for businesses to 
 
 Here's a breakdown of the project :
 
-2. Setting up your development environment with Python, Excel, and the necessary libraries.
-3. Do necessary installation for python libraries
-4. Loading the raw sales data into Pandas DataFrames for efficient manipulation and analysis.
-5. Cleaning and preprocessing the data to ensure accuracy and reliability.
-6. Performing descriptive statistics using NumPy to gain insights into the dataset.
-7. Visualizing sales trends and patterns using Matplotlib and Seaborn.
-8. Conducting correlation analysis to identify relationships between different variables.
-9. Generating meaningful reports and visualizations to communicate findings effectively.
+1. Setting up your development environment with Python, Excel, and the necessary libraries.
+2. Do necessary installation for python libraries
+3. Loading the raw sales data into Pandas DataFrames for efficient manipulation and analysis.
+4. Cleaning and preprocessing the data to ensure accuracy and reliability.
+5. Performing descriptive statistics using NumPy to gain insights into the dataset.
+6. Visualizing sales trends and patterns using Matplotlib and Seaborn.
+7. Conducting correlation analysis to identify relationships between different variables.
+8. Generating meaningful reports and visualizations to communicate findings effectively.
 
 
